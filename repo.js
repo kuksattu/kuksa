@@ -6,6 +6,6 @@
         "https://mirrors.thpatch.net/kuksa/"
     ],
     "patches": {
-        "NoPortraits": "Removes all anime girls from you game."
+        "NoPortraits": "Removes all anime girls from your game."
     }
 }
