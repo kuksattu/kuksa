@@ -6,5 +6,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/kuksa/NoPortraits/"
 	],
-	"title": "Removes all anime girls from you game."
+	"title": "Removes all anime girls from your game."
 }
