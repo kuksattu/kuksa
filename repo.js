@@ -1,5 +1,5 @@
 {
-    "contact": "kuksattu@gmail.com",
+    "contact": "kuksattu@gmail.com, koponenkt#8073",
     "id": "kuksa",
     "title": "Kuksa's Repository",
     "servers": [
